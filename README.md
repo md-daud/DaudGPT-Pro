@@ -163,7 +163,20 @@ License not specified yet.
 
 
 
-=======
+
+---
+
+## 📸 Application Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 💬 AI Chat Interface
+![Chat Interface](screenshots/chat.png)
+
+### 🤖 AI Model Status
+![Model Status](screenshots/status.png)
+
 # DaudGPT-Pro
 AI-powered chatbot using Python and Ollama
->>>>>>> 4cc54833469281b96f65ad8586262a0b044abe28
+
