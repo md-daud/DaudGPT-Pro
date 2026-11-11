@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 \# DaudGPT Pro 🤖
@@ -162,3 +163,7 @@ License not specified yet.
 
 
 
+=======
+# DaudGPT-Pro
+AI-powered chatbot using Python and Ollama
+>>>>>>> 4cc54833469281b96f65ad8586262a0b044abe28
